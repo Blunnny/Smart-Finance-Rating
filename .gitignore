@@ -68,6 +68,7 @@ results/
 # Large files
 *.pdf
 *.mp4
+!演示视频.mp4
 *.avi
 *.mov
 
