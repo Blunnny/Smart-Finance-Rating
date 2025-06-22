@@ -64,6 +64,7 @@ results/
 *.json
 *.md
 !README.md
+!财务分析报告_*.md
 
 # Large files
 *.pdf
